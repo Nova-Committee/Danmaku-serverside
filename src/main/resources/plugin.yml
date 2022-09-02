@@ -1,0 +1,13 @@
+name: Danmaku
+main: committee.nova.danmaku.Danmaku
+version: "1.0.0"
+author: TartaricAcid, Tapio
+api-version: 1.16
+commands:
+  danmaku:
+    description: Command to manage the danmaku listener
+    usage: [
+      /<command> reload,
+      /<command> enable,
+      /<command> disable
+    ]
