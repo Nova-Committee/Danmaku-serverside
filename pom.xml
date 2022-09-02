@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>committee.nova</groupId>
-    <artifactId>Danmaku</artifactId>
+    <artifactId>Danmaku-Spigot-1.16.5</artifactId>
     <version>1.0.0</version>
 
     <properties>
